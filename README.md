@@ -8,7 +8,9 @@ is the process of generation of the internal electrical signal.)
 So, we need to monitor the heartbeat rate regularly, So that we need to know the pulse rate
 of the internal electrical signal.
 
-![ECG Waveform](ECG Wave.png)  
+<p align="center">
+  <img src="https://github.com/Manimohan05/ECG-Heart-Monitor-Lab-project/assets/125986011/45b76bb0-027b-454b-b3cf-0df9319f408d">
+</p>
 
 ## Product description
 
@@ -19,5 +21,9 @@ analog electronics expertise to enhance signal quality while amplifying the nece
 We have to construct an analog front end that accepts data from the ECG probes and outputs
 a clean waveform of the ECG.
 
-![ECG Monitor](ECG Monitor preview.jpeg)
+<p align="center">
+  <img src="https://github.com/Manimohan05/ECG-Heart-Monitor-Lab-project/assets/125986011/3c00ad8c-8bd2-4fac-99bf-6bfaf449b172">
+</p>
+
+
 
