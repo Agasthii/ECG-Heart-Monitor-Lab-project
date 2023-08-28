@@ -19,3 +19,4 @@ We have to construct an analog front end that accepts data from the ECG probes a
 a clean waveform of the ECG.
 
 ![ECG Monitor](ECG Monitor preview.jpeg)
+
