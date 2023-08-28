@@ -7,7 +7,7 @@ If a difference in the heart pulse (heart rate) then it may cause death also. (H
 is the process of generation of the internal electrical signal.)
 So, we need to monitor the heartbeat rate regularly, So that we need to know the pulse rate
 of the internal electrical signal.
-![ECG Waveform](ECG Wave.png)
+![ECG Waveform](ECG Wave.png) 
 
 ## Product description
 
